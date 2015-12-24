@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Fujifilm]]></title>
         <description><![CDATA[Fujifilm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fujifilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 04:53:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 11:12:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fujifilm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beautiful Fuji colour in this portrait from Varanasi]]></title>
+            <description><![CDATA[<h1>Beautiful Fuji colour in this portrait from Varanasi</h1>]]></description>
+            <link>https://thegrid.ai/fujifilm/beautiful-fuji-colour-in-this-portrait-from-varanasi/index.html</link>
+            <guid isPermaLink="false">94b59344-4691-4a6b-b824-bd09a30c11a6</guid>
+            <pubDate>Thu, 24 Dec 2015 11:12:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[X-T1: First Impressions]]></title>
             <description><![CDATA[<article><h1>X-T1: First Impressions</h1><p>I bought a Fuji X-Pro1 as soon as the local Calumet had one in stock. I hadn't used it, I hadn't read much about it, other than about the fancy new (at the time) sensor but the one thing I had seen was Zack Arias' notes on it and seen what he had produced using the original X100.</p><img src="https://exposure.imgix.net/production/posts/28331/cover-photo/cover-1393260632.jpg?fit=crop&w=500&h=500&q=60&fm=pjpg&auto=format"></article>]]></description>
