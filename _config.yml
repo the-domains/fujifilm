@@ -1,14 +1,26 @@
-layout_spectrum: 0.170247
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3152524
 color:
   saturation: 0.9414608
   brandStrength: 0.7651048
   lightness: 0.2497315
-  rhythmicContrast: 0.3711063
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0.3152524
+  rhythmicContrast: 0
+layout_spectrum: 0.170247
 name: Fujifilm
