@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/RupertMarlow/status/681406944867913728'
+inLanguage: en
+starred: false
+keywords:
+  - u6kfjorvxh
+  - weddingphotography
+  - location
+  - twitter
+  - https
+  - tweet
+  - cambridge
+  - geedapyefn
+  - 1prlabl
+  - ift
+description: 'A #detail shot from one of this years #weddings near #Cambridge. #WeddingPhotography http://ift.tt/1PrLABL'
+datePublished: '2016-01-02T19:37:16.483Z'
+dateModified: '2016-01-02T19:37:10.711Z'
 author:
   - name: rupertmarlow
     url: 'http://twitter.com/rupertmarlow'
@@ -23,36 +43,18 @@ author:
           - 185
           - 85
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - u6kfjorvxh
-  - weddingphotography
-  - location
-  - twitter
-  - https
-  - tweet
-  - cambridge
-  - geedapyefn
-  - 1prlabl
-  - ift
-description: 'A #detail shot from one of this years #weddings near #Cambridge. #WeddingPhotography http://ift.tt/1PrLABL'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/RupertMarlow/status/681406944867913728'
-datePublished: '2016-01-01T15:34:44.736Z'
-dateModified: '2016-01-01T15:12:25.559Z'
 title: ''
 sourcePath: _posts/2015-12-31-a-detail-shot-from-one-of-this-years-weddings-near-cambri.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![A &num;detail shot from one of this years &num;weddings near &num;Cambridge&period; &num;WeddingPhotography http&colon;&sol;&sol;ift&period;tt&sol;1PrLABL](https://pbs.twimg.com/media/CXTYAYxWQAAfYxQ.jpg:large)
+![A #detail shot from one of this years #weddings near #Cambridge. #WeddingPhotography http://ift.tt/1PrLABL](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d15bd4bf089d0bb767197d51c0357f45729fa8.jpg)
